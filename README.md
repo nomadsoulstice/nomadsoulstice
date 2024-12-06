@@ -1,19 +1,19 @@
 ## Hi there 👋
 I'm new to the community, and this README.md will evolve as I do. My experience thus far includes:
-  -CS50
-  -CS50W
-  -CS50P
+  - CS50
+  - CS50W
+  - CS50P
 
 I understand programming concepts while also having practicle application of these concepts in the following programming languages:
   -C
-  -python
-  -HTML
-  -CSS
-  -Javascript
+  - python
+  - HTML
+  - CSS
+  - Javascript
 
-- 🔭 I’m currently working on learning the github structure, and how to utalize this plattform effectively.
+## 🔭 I’m currently working on learning the github structure, and how to utalize this plattform effectively.
 
-Look forward to growing together amongst fellow github members. Happy coding!
+### Look forward to growing together amongst fellow github members. Happy coding!
 
 
 <!--
