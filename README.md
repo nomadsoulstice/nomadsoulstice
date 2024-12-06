@@ -5,7 +5,7 @@ I'm new to the community, and this README.md will evolve as I do. My experience 
   - CS50P
 
 I understand programming concepts while also having practicle application of these concepts in the following programming languages:
-  -C
+  - C
   - python
   - HTML
   - CSS
