@@ -11,6 +11,8 @@ I understand programming concepts while also having practicle application of the
   -CSS
   -Javascript
 
+- 🔭 I’m currently working on learning the github structure, and how to utalize this plattform effectively.
+
 Look forward to growing together amongst fellow github members. Happy coding!
 
 
